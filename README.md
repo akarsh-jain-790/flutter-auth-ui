@@ -1,4 +1,4 @@
-# Flutter Sign In/Up Using Phone UI
+# Flutter Sign In/Up Using Phone Number Verification UI
 
 This Flutter project demonstrates a sign-in and sign-up flow using phone number verification. It consists of three screens: Login, Phone Sign In, and Verification. The user can enter their phone number, receive a verification code, and verify their phone number to access the app's features.
 
