@@ -19,7 +19,7 @@ Here you can find the screenshots showcasing the user interface and the flow of 
 <img src="https://github.com/akarsh-jain-790/flutter-auth-ui/assets/72064462/f3686618-bfc2-4064-9a15-6699bb3ea017" height="600" />
 
 ## YouTube Video:
-Click here to watch a YouTube video demonstrating the app's functionality and the smooth sign-in/sign-up process using phone number verification.
+[Click here](https://youtu.be/-P4Kk46kQZE) to watch a YouTube video demonstrating the app's functionality and the smooth sign-in/sign-up process using phone number verification.
 
 ## Getting Started:
 To get started with this project, make sure you have Flutter installed. Clone the repository, install the dependencies by running `flutter pub get`, and then run the app using `flutter run`. Feel free to customize the UI and expand the functionality to fit your specific requirements.
